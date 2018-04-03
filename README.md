@@ -33,17 +33,16 @@ Message to valid user has bold text; no bold text if attempted user is not valid
 
 ![](https://github.com/acary/fb-cp-wk8/blob/master/user-enum1.gif)
 
-Vulnerability #2:
+Vulnerability #2: Cross-Site Scripting (CSS) via Contact Form
 
-![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
+![](https://github.com/acary/fb-cp-wk8/blob/master/xss-contact.gif)
 
 ## Red
 
-Vulnerability #1:
+Vulnerability #1: IDOR
 
-![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
+![](https://github.com/acary/fb-cp-wk8/blob/master/idor.gif)
 
-Vulnerability #2:
+Vulnerability #2: CSRF
 
-![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
-## Notes
+![](https://github.com/acary/fb-cp-wk8/blob/master/csrf.gif)
