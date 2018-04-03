@@ -18,23 +18,32 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQLi
 
-![](https://github.com/acary/fb-cp-wk8/sqli.gif)
+![](https://github.com/acary/fb-cp-wk8/blob/master/sqli.gif)
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking
+
+![](https://github.com/acary/fb-cp-wk8/blob/master/session-hijack.gif)
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: User Enumeration
 
-Vulnerability #2: __________________
+Message to valid user has bold text; no bold text if attempted user is not valid
 
+![](https://github.com/acary/fb-cp-wk8/blob/master/user-enum1.gif)
+
+Vulnerability #2:
+
+![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1:
 
-Vulnerability #2: __________________
+![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
 
+Vulnerability #2:
 
+![](https://github.com/acary/fb-cp-wk8/blob/master/.gif)
 ## Notes
